@@ -1,4 +1,4 @@
-# Web App made using streamlit 
+# Web app to analyze motor collision in New York City
 
 ![screely-1597753573938](https://user-images.githubusercontent.com/66165922/90514251-8ca56580-e17e-11ea-899a-0f33dddd14bd.png)
 
